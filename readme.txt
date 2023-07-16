@@ -49,7 +49,7 @@ Following are the details about each of the input field and selectable options.
         7 = reversible defect (when cold spots only appear during exercise)
 
 # Screenshots
-![1](https://user-images.githubusercontent.com/87228345/a2404b56-bdfa-4090-a068-a9a0de7e6f88.png)
+![1](https://github.com/assets/87228345/a2404b56-bdfa-4090-a068-a9a0de7e6f88.png)
 ![2](https://user-images.githubusercontent.com/87228345/1e2857e6-f21b-4972-80bd-8fe13c198f76.png)
 
 
